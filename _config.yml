@@ -20,7 +20,7 @@ description: For diagrams!
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Seonwha Kim"
+  About Me: "https://catstails.github.io/intro/"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
